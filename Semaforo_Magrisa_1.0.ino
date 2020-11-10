@@ -18,6 +18,7 @@ void loop() {
     //Apaga el LED Verde y el Buzzer
     digitalWrite(10, LOW);
     digitalWrite(11, LOW);
+    delay(100);
     
     }
    
